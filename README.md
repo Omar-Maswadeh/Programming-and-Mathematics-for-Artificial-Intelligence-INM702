@@ -1,1 +1,1 @@
-# Programming-and-Mathematics-for-Artificial-Intelligence-INM702
+# Programming and Mathematics for AI (INM702) CW
